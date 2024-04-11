@@ -33,5 +33,3 @@ Pour suivre ce projet, veuillez installer les éléments suivants localement :
 
 Nous allons récupérer les données sur [FBref](https://fbref.com/en/) dans la première partie de ce projet (`scraping.ipynb`).
 
-##Photo
-https://unsplash.com/fr/photos/ballon-de-football-bleu-et-gris-sur-le-terrain-vert-sous-le-ciel-blanc-et-bleu-pendant-la-journee-IorqsMssQH0
